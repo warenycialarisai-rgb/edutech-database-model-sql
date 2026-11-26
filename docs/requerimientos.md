@@ -1,6 +1,5 @@
 # Documento de requerimientos: plataforma de cursos online (EduTech)
 
-Versión 3 · Noviembre 2026
 
 ## 1. Objetivo general
 
