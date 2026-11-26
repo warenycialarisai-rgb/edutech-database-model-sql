@@ -15,7 +15,17 @@ Proyecto de práctica de bases de datos relacionales. Recorre tres etapas, en es
 
 ## El problema
 
-EduTech es una plataforma de cursos en línea. La base de datos gestiona las **categorías** en las que se clasifican los cursos, los **profesores** que los dictan, los **estudiantes** registrados, los **cursos** con sus **lecciones**, y las **inscripciones** de los estudiantes, con el precio real pagado para conservar el historial aunque el precio de lista cambie.
+EduTech es una plataforma ficticia de cursos en línea que necesita organizar su información de forma consistente: qué cursos ofrece, quién los dicta, quiénes están registrados y a qué cursos se inscribió cada estudiante.
+
+La base de datos gestiona:
+
+- **Categorías**, en las que se clasifican los cursos
+- **Profesores**, que dictan los cursos
+- **Estudiantes** registrados en la plataforma
+- **Cursos**, con sus **lecciones**
+- **Inscripciones** de los estudiantes a los cursos
+
+Una regla clave: cada inscripción guarda el **precio realmente pagado**, para conservar el historial aunque el precio de lista del curso cambie después.
 
 ## Cómo está organizado el repositorio
 
